@@ -9,6 +9,11 @@
     color: red;
     font-family: 'Courier New', Courier, monospace;
     padding: 50px;
-    
+
 }
 
+.job {
+    color: red;
+    font-family: monospace;
+    
+}
