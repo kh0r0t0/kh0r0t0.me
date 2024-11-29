@@ -2,13 +2,12 @@
     background-color: black;
     color: red;
     color-scheme: black;
-    
 }
 
-.h1 h1 {
+h1 {
     color: #00ff00;
     font-family: 'Courier New', Courier, monospace;
-    padding: 40px;
+    padding: 50px;
 
 }
 
